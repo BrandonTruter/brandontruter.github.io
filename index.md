@@ -1,5 +1,15 @@
 # Brandon Truter
 
+## FEATURING
+
+### Sarah Truter
+
+#### Leah J. Truter
+
+#### Timothy J. Truter
+
+# Website Information 
+
 ## Personal Website using GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/BrandonTruter/brandontruter.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
